@@ -34,6 +34,9 @@ func main() {
 		}
 	}
 
+	if err := scanner.Err(); err != nil {
+		fail()
+	}
 	if s.IsSorted() {
 		fmt.Println("OK")
 	} else {
