@@ -1,6 +1,6 @@
 # Push-Swap
 
-Projet d'algorithmique développé en **Go** (utilisant uniquement la bibliothèque standard). L'objectif est de trier une liste d'entiers sur une pile en utilisant un ensemble restreint d'instructions et un nombre minimal de mouvements.
+Projet d'algorithmique développé en Go (utilisant uniquement la bibliothèque standard). L'objectif est de trier une liste d'entiers sur une pile en utilisant un ensemble restreint d'instructions et un nombre minimal de mouvements.
 
 ## Structure du dépôt
 
